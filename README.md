@@ -3,7 +3,7 @@ All of the files from the gpu-3 integration to h2o.ai documentation
 
 Officially started 1/22/23
 
-- [ ] Run langchain bot tutorial
+- [x] Run langchain bot tutorial
 
 - [ ] Run langchain github bot python script
 
